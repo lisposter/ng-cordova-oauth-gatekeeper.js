@@ -1,0 +1,28 @@
+{
+  "name": "ng-cordova-oauth-gatekeeper.js",
+  "main": "ng-cordova-oauth-gatekeeper.js",
+  "version": "0.1.1",
+  "authors": [
+    "Leigh Zhu <i@zhuli.me>"
+  ],
+  "description": "ng-cordova lib of gatekeeper for GitHub OAuth",
+  "keywords": [
+    "GitHub",
+    "OAuth",
+    "Cordova",
+    "InAppBrowser",
+    "Angular",
+    "ng",
+    "phonegap",
+    "ionic framework"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/lisposter/ng-cordova-oauth-gatekeeper.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
